@@ -3,6 +3,7 @@ import { useNavigate } from "react-router-dom";
 import nbhImage from "../assets/nbh.jpg";
 import himgiriImage from "../assets/himgiri.jpg";
 
+// creating function AdminInfo
 function Admin_Info() {
   const navigate = useNavigate(); // React Router navigation
 
