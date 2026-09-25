@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { useLocation } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";
 
+// creating functoin AdminDetails
 function AdminDetails() {
   const location = useLocation();
   const { hostelName, isAdding } = location.state || {};
