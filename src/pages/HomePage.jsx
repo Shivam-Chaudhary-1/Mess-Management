@@ -4,6 +4,7 @@ import FoodWasteImage from "../assets/foodwaste.jpg";
 import GarbageImage from "../assets/garbage-8040768_1280.jpg";
 import HungerImage from "../assets/hungerDayImg.webp";
 
+// creating HomePage
 function HomePage() {
   return (
     <div className="w-full bg-purple-100 flex flex-col gap-2 items-center p-8">
