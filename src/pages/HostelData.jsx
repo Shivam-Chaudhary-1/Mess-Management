@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 
+// creating function HostelData
 function HostelData() {
     const data = [
         { label: "Present Students", count: 120, color: "bg-blue-500" },
