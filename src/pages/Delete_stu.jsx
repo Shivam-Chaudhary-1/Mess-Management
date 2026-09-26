@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 
+// Creating function DeleteStu
 function Delete_stu() {
     return (
         <div className="bg-purple-100 px-10 w-full h-screen flex flex-col items-center">

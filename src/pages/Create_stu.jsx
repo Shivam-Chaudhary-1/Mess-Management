@@ -1,6 +1,7 @@
 
 import { motion } from "framer-motion";
 
+// creating function CreateStu
 function Create_stu() {
   return (
     <div className="bg-purple-300 px-10 w-full h-screen flex flex-col items-center">
