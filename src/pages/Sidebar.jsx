@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 
+// creating sidebar
 const Sidebar = () => {
   const [isOpen, setIsOpen] = useState(true); // Sidebar open by default
 
