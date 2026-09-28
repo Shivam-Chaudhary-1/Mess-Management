@@ -3,6 +3,7 @@ import { RxCross2 } from 'react-icons/rx';
 import React from 'react';
 import { useState } from 'react';
 
+// creating navbar
 function Navbaar(props) {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     const visible = props.visible;
