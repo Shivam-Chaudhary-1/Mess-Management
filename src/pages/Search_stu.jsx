@@ -1,6 +1,7 @@
 
 import { motion } from "framer-motion";
 
+//creating function searchStudent
 function Search_stu() {
     return (
         <div className="bg-purple-100 px-10 w-full h-screen flex flex-col items-center">
