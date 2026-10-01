@@ -28,6 +28,7 @@ function App() {
          <Entry_stu/> 
          {/* <Sidebar/> */}
          <Router>
+          {/* creating Routes */}
          <Routes>
          <Route path="/" element={<Admin_Info />} />
          <Route path="/admin-details" element={<AdminDetails />} />
